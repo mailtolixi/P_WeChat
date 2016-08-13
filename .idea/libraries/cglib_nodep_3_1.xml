@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="cglib-nodep-3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/jfinal-lib/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/fastjson-1.2.6.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/freemarker-2.3.20.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jetty-server-8.1.8.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-2.2-bin-with-src.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-weixin-1.8-bin-with-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-2.2-bin-with-src.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-weixin-1.8-bin-with-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
