@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="cglib-nodep-3.1">
+  <library name="fastjson-1.2.6">
     <CLASSES>
-      <root url="jar://$USER_HOME$/jfinal-lib/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/fastjson-1.2.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

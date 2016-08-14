@@ -1,12 +1,9 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="P_WeChat:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/P_WeChat_war_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="P_WeChat/web/Web" />
+  <artifact type="war" build-on-make="true" name="P_WeChat:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/P_WeChat_war</output-path>
+    <root id="archive" name="P_WeChat_war.war">
+      <element id="artifact" artifact-name="P_WeChat:war exploded" />
       <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="P_WeChat" />
-        </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="cglib-nodep-3.1" />
           <element id="library" level="project" name="fastjson-1.2.6" />

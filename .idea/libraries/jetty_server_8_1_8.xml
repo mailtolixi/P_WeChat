@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="cglib-nodep-3.1">
+  <library name="jetty-server-8.1.8">
     <CLASSES>
-      <root url="jar://$USER_HOME$/jfinal-lib/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jetty-server-8.1.8.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

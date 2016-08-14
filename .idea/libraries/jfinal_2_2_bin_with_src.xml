@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jfinal-2.2-bin-with-src">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-2.2-bin-with-src.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-weixin-1.8-bin-with-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-2.2-bin-with-src.jar!/" />
+      <root url="jar://$USER_HOME$/jfinal-lib/jfinal-weixin-1.8-bin-with-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
